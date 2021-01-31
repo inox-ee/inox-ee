@@ -15,4 +15,6 @@ powered by: https://github.com/vn7n24fzkq/github-profile-summary-cards
 
 ## :books: Useful Templates
 
-Go to <https://gitlab.com/ino-templates>
+[![](https://raw.githubusercontent.com/inox-ee/inox-ee/master/ref/gitlab_ino-template.svg)](https://gitlab.com/ino-templates)
+
+<!-- https://gitlab.com/api/v4/groups/10812459 -->
