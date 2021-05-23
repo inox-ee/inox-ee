@@ -13,6 +13,10 @@ powered by: https://github.com/vn7n24fzkq/github-profile-summary-cards
 [![](https://github-readme-stats.vercel.app/api/pin/?username=inox-ee&repo=dotfiles)](https://github.com/inox-ee/dotfiles)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=inox-ee&repo=get_YouTube_subscription_videos)](https://github.com/inox-ee/get_YouTube_subscription_videos)
 
+## :black_nib: Tech Blog
+
+[記事一覧 - いの の 進捗](https://puyobyee18.hatenablog.com/archive)
+
 ## :books: Useful Templates
 
 [![](https://raw.githubusercontent.com/inox-ee/inox-ee/master/ref/gitlab_ino-template.svg)](https://gitlab.com/ino-templates)
