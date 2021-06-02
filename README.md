@@ -11,7 +11,7 @@ powered by: https://github.com/vn7n24fzkq/github-profile-summary-cards
 ## :pushpin: Pinned repos
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=inox-ee&repo=dotfiles)](https://github.com/inox-ee/dotfiles)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=inox-ee&repo=get_YouTube_subscription_videos)](https://github.com/inox-ee/get_YouTube_subscription_videos)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=inox-ee&repo=VDeck)](https://github.com/inox-ee/VDeck)
 
 ## :black_nib: Tech Blog
 
